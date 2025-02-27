@@ -9,8 +9,6 @@
 <!-- </div> -->
 
 ## ❇️FIND ME ON  
->
----
 
 <br>
 
@@ -25,8 +23,6 @@
 
 ## ❇️MY TECH STACK  
 
----
-
 <br>
 
 <div align="center">
@@ -36,8 +32,6 @@
 </div>
 
 ## ❇️MY GITHUB STATS  
-
----
 
 <br>
 
