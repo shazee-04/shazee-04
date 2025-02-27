@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v3
       # Step 2: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
-        uses: shazee-04/snake-builder/svg-only
+        uses: shazee-04/snake-builder/svg-only@v1.0.0
         with:
           # GitHub username to generate the animation for
           github_user_name: ${{ github.repository_owner }}
