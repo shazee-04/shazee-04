@@ -1,12 +1,12 @@
-<!-- <div align="center"> -->
+<!-- <div align="center">
 
-<!-- <br> -->
+<br>
 
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)   -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-<!-- [![](https://visitcount.itsvg.in/api?id=shazee-04&icon=0&color=0)](https://visitcount.itsvg.in)  -->
+[![](https://visitcount.itsvg.in/api?id=shazee-04&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-<!-- </div> -->
+</div> -->
 
 <div align="right">
   
