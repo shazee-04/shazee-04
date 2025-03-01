@@ -11,7 +11,7 @@
 <div align="right">
   
 <picture>
-  <img alt="" height="40px" src="https://raw.githubusercontent.com/shazee-04/shazee-04/main/assets/voltage.webp" />
+  <img alt="" height="40px" src="https://raw.githubusercontent.com/shazee-04/shazee-04/main/assets/animated-emoji/High Voltage.webp" />
 </picture>
 
 </div>
