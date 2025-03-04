@@ -8,10 +8,15 @@
 
 ## ❇️FEATURED PROJECTS  
 
-<img alt="image thumbnail" height="155px" src="https://raw.githubusercontent.com/shazee-04/shazee-04/main/assets/images/2.png" />
+<br>
 
-[![GitHub Repo](https://img.shields.io/badge/View%20on-GitHub-000?style=for-the-badge&logo=github)](https://github.com/shazee-04/e-commerce-site "click here to visit the repository")
-[![Live Demo](https://img.shields.io/badge/Live-Demo-27AE60?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shazee-04.github.io/e-commerce-site "click here to visit the live website")
+<div align="center">
+
+[![GitHub Repo](https://img.shields.io/badge/e%20commerce%20site-000?style=for-the-badge)](https://github.com/shazee-04/e-commerce-site "view repository")[![Live Demo](https://img.shields.io/badge/Live-27AE60?style=for-the-badge)](https://shazee-04.github.io/e-commerce-site "visit live website") 
+[![GitHub Repo](https://img.shields.io/badge/portfolio_idea-000?style=for-the-badge)](https://github.com/shazee-04/portfolio-1 "view repository")[![Live Demo](https://img.shields.io/badge/Live-27AE60?style=for-the-badge)](https://shazee-04.github.io/portfolio-1 "visit live website") 
+[![GitHub Repo](https://img.shields.io/badge/naruto_2d_game-000?style=for-the-badge)](https://github.com/shazee-04/naruto-game-3.1 "view repository")[![Live Demo](https://img.shields.io/badge/Live-27AE60?style=for-the-badge)](https://shazee-04.github.io/naruto-game-3.1 "visit live website")  
+
+</div>
 
 ## ❇️FIND ME ON  
 
