@@ -1,21 +1,17 @@
 <div align="right">
   
 <picture>
-  <img alt="" height="40px" src="https://raw.githubusercontent.com/shazee-04/shazee-04/main/assets/voltage.webp" />
+  <img alt="" height="35px" src="https://raw.githubusercontent.com/shazee-04/shazee-04/main/assets/animated-emoji/High Voltage.webp" />
 </picture>
 
 </div>
 
 ## ❇️FEATURED PROJECTS  
-  
-<picture>
 
-<img alt="image thumbnail" height="140px" src="https://raw.githubusercontent.com/shazee-04/shazee-04/main/assets/images/1.png" />
+<img alt="image thumbnail" height="155px" src="https://raw.githubusercontent.com/shazee-04/shazee-04/main/assets/images/2.png" />
 
 [![GitHub Repo](https://img.shields.io/badge/View%20on-GitHub-000?style=for-the-badge&logo=github)](https://github.com/shazee-04/e-commerce-site "click here to visit the repository")
 [![Live Demo](https://img.shields.io/badge/Live-Demo-27AE60?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shazee-04.github.io/e-commerce-site "click here to visit the live website")
-
-</picture>
 
 ## ❇️FIND ME ON  
 
