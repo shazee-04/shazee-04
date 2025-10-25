@@ -13,7 +13,7 @@
 <div align="center">
 
 [![GitHub Repo](https://img.shields.io/badge/e%20commerce%20site-f0f0f0?style=for-the-badge)](https://github.com/shazee-04/e-commerce-site "view repository")[![Live Demo](https://img.shields.io/badge/Live-27AE60?style=for-the-badge)](https://shazee-04.github.io/e-commerce-site "visit live website") 
-[![GitHub Repo](https://img.shields.io/badge/main_portfolio-ffbfd1?style=for-the-badge)](https://shazee.dev "view repository")[![Live Demo](https://img.shields.io/badge/Live-ff0048?style=for-the-badge)](https://shazee.dev "visit live website") 
+[![GitHub Repo](https://img.shields.io/badge/main_portfolio-ffbfd1?style=for-the-badge)](https://github.com/shazee-04/portfolio "view repository")[![Live Demo](https://img.shields.io/badge/Live-ff0048?style=for-the-badge)](https://shazee.dev "visit live website") 
 [![GitHub Repo](https://img.shields.io/badge/naruto_2d_game-f0f0f0?style=for-the-badge)](https://github.com/shazee-04/naruto-game-3.1 "view repository")[![Live Demo](https://img.shields.io/badge/Live-27AE60?style=for-the-badge)](https://shazee-04.github.io/naruto-game-3.1 "visit live website")  
 
 </div>
