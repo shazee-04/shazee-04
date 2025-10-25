@@ -17,7 +17,7 @@
 [![GitHub Repo](https://img.shields.io/badge/naruto_2d_game-f0f0f0?style=for-the-badge)](https://github.com/shazee-04/naruto-game-3.1 "view repository")[![Live Demo](https://img.shields.io/badge/Live-27AE60?style=for-the-badge)](https://shazee-04.github.io/naruto-game-3.1 "visit live website")  
 
 <picture>
-  <img alt="Portfolio Preview" width="100%" src="https://raw.githubusercontent.com/shazee-04/shazee-04/main/assets/img/portfolio-preview.jpg" />
+  <img alt="Portfolio Preview" width="100%" src="https://github.com/shazee-04/shazee-04/blob/main/assets/img/portfolio-preview.jpg?raw=true" />
 </picture>
 
 </div>
