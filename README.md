@@ -12,13 +12,13 @@
 
 <div align="center">
 
-[![GitHub Repo](https://img.shields.io/badge/e%20commerce%20site-f0f0f0?style=for-the-badge)](https://github.com/shazee-04/e-commerce-site "view repository")[![Live Demo](https://img.shields.io/badge/Live-27AE60?style=for-the-badge)](https://shazee-04.github.io/e-commerce-site "visit live website") 
-[![GitHub Repo](https://img.shields.io/badge/main_portfolio-ffbfd1?style=for-the-badge)](https://github.com/shazee-04/portfolio "view repository")[![Live Demo](https://img.shields.io/badge/Live-ff0048?style=for-the-badge)](https://shazee.dev "visit live website") 
-[![GitHub Repo](https://img.shields.io/badge/naruto_2d_game-f0f0f0?style=for-the-badge)](https://github.com/shazee-04/naruto-game-3.1 "view repository")[![Live Demo](https://img.shields.io/badge/Live-27AE60?style=for-the-badge)](https://shazee-04.github.io/naruto-game-3.1 "visit live website")  
+[![GitHub Repo](https://img.shields.io/badge/e%20commerce%20site-f0f0f0?style=for-the-badge)](https://github.com/shazee-04/e-commerce-site "view repository")[![Live Demo](https://img.shields.io/badge/Live-27AE60?style=for-the-badge)](https://www.shazee.dev/work/e-commerce-site "visit live website") 
+[![GitHub Repo](https://img.shields.io/badge/main_portfolio-ffbfd1?style=for-the-badge)](https://github.com/shazee-04/ "view repository")[![Live Demo](https://img.shields.io/badge/Live-ff0048?style=for-the-badge)](https://shazee.dev "visit live website") 
+[![GitHub Repo](https://img.shields.io/badge/Beacon-f0f0f0?style=for-the-badge)](https://github.com/shazee-04/beacon "view repository")[![Live Demo](https://img.shields.io/badge/Live-27AE60?style=for-the-badge)](https://beacon.shazee.dev "visit live website")  
 
 <a href="https://www.shazee.dev" target="_blank">
   <picture>
-    <img alt="Portfolio Preview" width="100%" src="https://github.com/shazee-04/shazee-04/blob/main/assets/img/portfolio-preview.jpg?raw=true" />
+    <img alt="Portfolio Preview" width="100%" src="https://github.com/user-attachments/assets/f44f553c-eabe-4e84-990b-f397530a10f3" />
   </picture>
 </a>
 
@@ -43,7 +43,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shazee-04&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shazee-04&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
   
@@ -62,12 +62,13 @@
 
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=shazee-04&theme=rose&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=shazee-04&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=shazee-04&theme=blue-green&hide_border=true)<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shazee-04/shazee-04/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shazee-04/shazee-04/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shazee-04/shazee-04/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shazee-04/shazee-04/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>  
 
 ##
