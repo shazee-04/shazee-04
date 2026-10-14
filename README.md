@@ -61,9 +61,11 @@
 <br>
 
 <div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=shazee-04&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=shazee-04&theme=blue-green&hide_border=true)<br/>
+  
+<picture>
+  <img width="48%" height="180px" src="https://github-readme-stats.shion.dev/api?username=shazee-04&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" height="180px" src="https://streak-stats.demolab.com/?user=shazee-04&theme=blue-green&hide_border=true" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shazee-04/shazee-04/output/github-contribution-grid-snake-dark.svg" />
